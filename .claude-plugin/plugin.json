@@ -20,7 +20,7 @@
     "market-intelligence"
   ],
   "icon": ".claude-plugin/icon.png",
-  "documentationUrl": "https://edictiq.com/en/security",
+  "documentationUrl": "https://github.com/sonnenfluse/edictiq-claude-plugin",
   "supportUrl": "https://edictiq.com/en/contact",
   "privacyPolicyUrl": "https://edictiq.com/en/privacy",
   "termsOfServiceUrl": "https://edictiq.com/en/terms"
